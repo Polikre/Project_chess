@@ -1,0 +1,3 @@
+([('login_reg',
+   '/Users/andrey/Downloads/project-4/dist/login_reg',
+   'EXECUTABLE')],)
